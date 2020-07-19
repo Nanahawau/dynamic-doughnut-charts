@@ -1,0 +1,19 @@
+body{
+    box-sizing: border-box;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap; 
+    width: 100%;
+    height: 100%;
+    justify-content: space-between;
+}
+
+canvas{
+  width:50px;  /* Or whatever */
+  height: 100px; /* Or whatever */
+  margin: 10px, 10px, 10px, 10px;  /* Magic! */
+  /* border: 1px solid black; */
+
+}
