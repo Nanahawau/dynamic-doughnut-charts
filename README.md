@@ -5,6 +5,6 @@ Dynamically generate charts (Chart.Js) from JSON API response.
 * HTML 
 * CSS 
 * JQUERY
-# github Page
+# github page
 [Github Page Link](https://nanahawau.github.io/dynamic-doughnut-charts/)
 
